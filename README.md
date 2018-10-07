@@ -31,7 +31,7 @@ pip install requests
 pip install lxml
 pip install BeautifulSoup
 
-# Ubantu
+# Ubuntu
 apt-get install libmysqld-dev
 easy_install MySQL-python
 
